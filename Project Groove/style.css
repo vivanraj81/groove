@@ -1,0 +1,89 @@
+body {
+    margin: -0px;
+}
+
+
+.veg1 {
+    background-color: black;
+    padding-left: 900px;
+    margin-right: -23px;
+}
+
+.veg2 {
+    position: absolute;
+    text-align: center;
+    margin-left: 800px;
+    margin-top: 250px;
+    color: rgb(0, 0, 0);
+    font-family: 'Exo 2', sans-serif;
+}
+
+.veg3 {
+    position: absolute;
+
+
+}
+
+.button {
+    background-color: green;
+    padding: 10px 20px;
+}
+
+.veg4 {
+    margin-top: 950px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+* {
+    font-family: 'Exo 2', sans-serif;
+}
+
+table,
+tr,
+td,
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 300px;
+}
+
+th {
+    background-color: green;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.tab5 {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+#numb {
+    width: 35px;
+}
+
+.last {
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+}
+
+#btn {
+    background-color: green;
+    
+    color: aliceblue;
+    padding: 10px 20px;
+}
+.btn{
+    margin-top: 30px;
+}
+.tab5:hover{
+    background-color: gainsboro;
+
+}
